@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to the user’s name, email address, contact number, location, and pictures. The information that we request will be retained by us and used as described in this Privacy Policy.
 The app does use third-party services that may collect information used to identify you.
 
-### Prominent Disclosure & Consent: ###
+### Prominent Disclosure & Consent ###
 Upon user registration, and before accessing the full features of the app, including submitting incident reports, the app will present a geolocation consent screen. Users must read and check the consent checkbox before completing the registration process. By checking this consent, you agree to allow the app to access your device’s geolocation data. This data is essential for accurately locating incidents when reports are submitted. The geolocation data will be used solely for this purpose and will not be shared without your explicit consent, except as required to provide services or comply with legal obligations.
 
 Failure to agree to the geolocation consent will prevent registration and use of the app's main feature (incident reporting). We ensure that the collection and use of geolocation data are transparent and necessary for the functionality of the app.
