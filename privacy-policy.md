@@ -1,8 +1,8 @@
-Action Center Data App Privacy Policy
+ACTION Center Data App Privacy Policy
 --------------------------
 ### Introduction ###
-Our privacy policy will help you understand what information we collect at Action Center, how Action Center uses it, and what choices you have.
-Action Center Dev Team built the Action Center Data App as a free app. This SERVICE is provided by Action Center Data App at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at ACTION Center, how ACTION Center uses it, and what choices you have.
+ACTION Center Dev Team built the ACTION Center Data App as a free app. This SERVICE is provided by ACTION Center Data App at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible on our website, unless otherwise defined in this Privacy Policy.
 
